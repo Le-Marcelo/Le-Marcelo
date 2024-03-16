@@ -1,16 +1,25 @@
-### Hi there 👋
+# PT-BR
 
-<!--
-**Le-Marcelo/Le-Marcelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🪶Sobre mim
 
-Here are some ideas to get you started:
+👋 Opa tudo bem? Bem vindo(a) ao meu perfil do Github.  
+📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na **FATEC** e estou no 4º Semestre!  
+💼 Estou procurando meu primeiro trabalho na área.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 O que você irá encontrar aqui
+
+📖 Exercícios, projetos e atividades realizadas para estudos.  
+💡 Eventualmente algum projeto pessoal para testes.
+
+# EN-US
+
+### 🪶About me
+
+👋 Hey everything ok? Welcome to my Github profile.   
+📚 I'm actually studying System Development and Analysis on **FATEC** and i'm currently in the 4º Semester!  
+💼 I'm looking for my first job in this field.  
+
+### 🔭 What do you will find here
+
+📖 Exercises, projects and activities made for studies.  
+💡 Eventually some personal projects for testing.
