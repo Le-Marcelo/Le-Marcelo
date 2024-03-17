@@ -16,7 +16,7 @@
 ### 🪶About me
 
 👋 Hey everything ok? Welcome to my Github profile.   
-📚 I'm actually studying System Development and Analysis on **FATEC** and i'm currently in the 4º Semester!  
+📚 I'm currently studying System Development and Analysis on **FATEC** and i'm at the moment at the 4º Semester!  
 💼 I'm looking for my first job in this field.  
 
 ### 🔭 What do you will find here
