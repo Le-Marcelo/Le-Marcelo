@@ -3,7 +3,7 @@
 ### 🪶Sobre mim
 
 👋 Opa tudo bem? Bem vindo(a) ao meu perfil do Github.  
-📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na **FATEC** e estou no 4º Semestre!  
+📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas na **FATEC** e estou no 5º Semestre!  
 💼 Estou procurando meu primeiro trabalho na área.  
 
 ### 🔭 O que você irá encontrar aqui
@@ -16,7 +16,7 @@
 ### 🪶About me
 
 👋 Hey everything ok? Welcome to my Github profile.   
-📚 I'm currently studying System Development and Analysis on **FATEC** and i'm at the moment at the 4º Semester!  
+📚 I'm currently studying System Development and Analysis on **FATEC** and i'm at the moment at the 5º Semester!  
 💼 I'm looking for my first job in this field.  
 
 ### 🔭 What do you will find here
